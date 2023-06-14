@@ -1,0 +1,14 @@
+# Ignore Node.js build artifacts
+crud2/node_modules/
+server/node_modules/
+npm-debug.log
+
+# Ignore development environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore build output
+build/
+dist/
